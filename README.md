@@ -25,4 +25,4 @@ Clasificación y Cumplimiento (GDPR): Identificación autónoma de datos sensibl
 
 
 ### Nota técnica
-Para profundizar en la configuración y ver el paso a paso detallado, consulte el **[PDF de la guía de implementación](./Guía de Implementación Paso a Paso de la Arquitectura de Datos en Azure.pdf)** adjunto en este repositorio.
+Para profundizar en la configuración y ver el paso a paso detallado, consulte el **[PDF de la guía de implementación](<./Guía de Implementación Paso a Paso de la Arquitectura de Datos en Azure.pdf>)** adjunto en este repositorio.
